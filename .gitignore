@@ -1,0 +1,9 @@
+/venv
+/__pycache__/
+/web_utils/__pycache__/
+/utils/__pycache__
+/vcg_service/__pycache__
+/vct_service/__pycache__
+/dao_service/__pycache__
+/web_utils/abi/__pycache__
+.env
